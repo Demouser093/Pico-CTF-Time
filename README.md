@@ -12,14 +12,14 @@
 
 </aside>
 
-| Category                                            | Links | 
+| Category                                            | Links           | 
 | -------------------------------------------------   |:---------------:|
-| **[Web Exploitation](#web-exploitation)**                | **10**          |   
-| **[Cryptography](#cryptography)**             | **5**           |     
-| **[Reverse Engineering](#reverse-engineering)**    | **3**           |     
-| **[Forensics](#forensics)**                      | **9**           |     
-| **[General Skills](#general-skills)**                        | **10**          |     
-| **[Binary Exploitation](#binary-exploitation)**               | **8**           |      
+| **[Web Exploitation](#web-exploitation)**           | **10**          |   
+| **[Cryptography](#cryptography)**                   | **5**           |     
+| **[Reverse Engineering](#reverse-engineering)**     | **3**           |     
+| **[Forensics](#forensics)**                         | **9**           |     
+| **[General Skills](#general-skills)**               | **10**          |     
+| **[Binary Exploitation](#binary-exploitation)**     | **8**           |      
 
 ## Web Exploitation
 ---
