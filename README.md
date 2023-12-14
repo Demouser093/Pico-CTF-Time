@@ -12,48 +12,48 @@
 
 </aside>
 
-| Category                                            | Links           | 
-| -------------------------------------------------   |:---------------:|
-| **[Web Exploitation](#web-exploitation)**           | **10**          |   
-| **[Cryptography](#cryptography)**                   | **5**           |     
-| **[Reverse Engineering](#reverse-engineering)**     | **3**           |     
-| **[Forensics](#forensics)**                         | **9**           |     
-| **[General Skills](#general-skills)**               | **10**          |     
-| **[Binary Exploitation](#binary-exploitation)**     | **8**           |      
+| Category                                            | Links                                                                     | 
+| -------------------------------------------------   |:------------------------------------------------------------------------: |
+| **[Web Exploitation](#web-exploitation)**           | **[Link](https://play.picoctf.org/practice?category=1&page=1)**           |   
+| **[Cryptography](#cryptography)**                   | **[Link](https://play.picoctf.org/practice?category=2&page=1)**           |     
+| **[Reverse Engineering](#reverse-engineering)**     | **[Link](https://play.picoctf.org/practice?category=3&page=1)**           |     
+| **[Forensics](#forensics)**                         | **[Link](https://play.picoctf.org/practice?category=4&page=1)**           |     
+| **[General Skills](#general-skills)**               | **[Link](https://play.picoctf.org/practice?category=5&page=1)**           |     
+| **[Binary Exploitation](#binary-exploitation)**     | **[Link](https://play.picoctf.org/practice?category=6&page=1)**           |      
 
 ## Web Exploitation
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files]( https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/Web%20Exploitation)
 
 
 ## Cryptography
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/Cryptography)
 
 
 ## Reverse Engineering
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/Reverse%20Engineering)
 
 
 ## Forensics
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/Forensics)
 
 
 ## General Skills
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/General%20skills)
 
 
 ## Binary Exploitation
 ---
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [All Files](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/Binary%20Exploitation  )
 
 
