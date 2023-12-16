@@ -52,6 +52,9 @@
 
 * [Python Wrangling](https://play.picoctf.org/practice/challenge/166?category=5&originalEvent=34&page=1&solved=0)  **[Writeup:- Here](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/General%20skills/Python%20Wrangling)**
 
+* [CodeBook](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/General%20skills/Codebook)
+
+* [ConverMe.py](https://github.com/Raunaksplanet/Pico-CTF-Time/tree/main/General%20skills/convertme) 
 
 ## Binary Exploitation
 ---
